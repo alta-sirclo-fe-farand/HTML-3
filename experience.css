@@ -1,0 +1,71 @@
+.header-footer-section {
+    max-width: 1140px;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
+.header-footer-padding {
+    padding: 1rem;
+}
+
+.exp-bg {
+    background-color: rgb(244, 247, 252);
+    padding: 1rem;
+}
+
+.footer-bg {
+    background-color: rgb(25, 52, 94);
+    padding: 1rem;
+}
+
+.blue-fonts {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(25, 52, 94);
+}
+
+.orange-fonts {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(244, 117, 34);
+}
+
+.grey-fonts {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(121, 121, 121);
+}
+
+.white-fonts {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.jobdesc-fonts {
+    font-size: 2vh;
+}
+
+.no-indent {
+    margin: 0;
+    padding: 0;
+}
+
+.vertical-line {
+    border-left: solid 2px;
+    border-color: rgb(255, 255, 255);
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}

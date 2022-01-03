@@ -1,0 +1,33 @@
+#bg {
+    background-image: url(assets/charles-rRWiVQzLm7k-unsplash.jpg);
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 550px;
+    background-size: cover;
+}
+
+#secondlayer {
+    background-color: darkblue;
+    opacity: 0.3;
+    width: 350px;
+    height: 550px;
+}
+
+#thirdlayer {
+    position: absolute;
+    top: 35%;
+    left: 20%;
+}
+
+#rounded {
+    background-color: rgb(244, 117, 34);
+    color: white;
+    padding: 10px 24px;
+    border-radius: 24px;
+}
+
+.red:nth-last-child() {
+    color: red;
+}
